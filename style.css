@@ -1,0 +1,46 @@
+div {
+    display:none;
+    width: 40%;
+  }
+
+  p {
+    font-size: 2em;
+  }
+
+ 
+  .cat {
+    background-color: aquamarine;
+    margin-left: 0px;
+    
+  }
+
+  .dog {
+    background-color: coral;
+    
+  }
+
+  footer{
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: blueviolet;
+  }
+  .catpic{
+  width:300px;
+  height:200px;
+  float:left;
+
+  }
+ .dogpic{
+
+
+  float: right;
+ }
+
+
+ .dog{
+
+  position: relative;
+  left: 300px;
+  
+ }
